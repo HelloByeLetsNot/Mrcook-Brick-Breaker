@@ -2,7 +2,7 @@
 
 ### About the Game
 
-Welcome to the **Brick Breaking Game**! This classic arcade-style game is a modern take on the beloved brick-breaker genre, designed to offer hours of entertainment and challenge.
+Welcome to the **Brick Breaking Game**! This classic arcade-style game is a modern take on the beloved brick-breaker genre, designed to offer hours of entertainment and challenge. Not really it's just a mrcook skin, rip mrcook. we miss you.
 
 #### How to Play
 - **Control the Paddle:** Use the left and right arrow keys on your keyboard to move the paddle.
