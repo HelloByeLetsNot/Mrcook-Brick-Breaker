@@ -154,6 +154,10 @@ function draw() {
     requestAnimationFrame(draw);
 }
 
+// Play background music
+const backgroundMusic = document.getElementById('backgroundMusic');
+backgroundMusic.play();
+
 document.addEventListener("keydown", function (event) {
     if (event.key === "Right" || event.key === "ArrowRight") {
         paddle.moveRight();
